@@ -2,11 +2,11 @@
 
 >Trilha Explorer
 
-![preview]
+![preview](.github/preview.png)
 
 Projeto construído no evento Next Level Week eSports da Rocketseat.
 
-[Clique aqui para acessar]
+[Clique aqui para acessar](https://leonksx.github.io/Project-nlw-eSports/)
 
 ## Tecnologias 
 
