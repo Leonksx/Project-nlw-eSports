@@ -4,9 +4,9 @@
 
 ![preview](./.github/preview.png)
 
-Projeto construído no evento Next Level Week da Rocketseat.
+Projeto construído no evento Next Level Week eSports da Rocketseat.
 
-[Clique aqui para acessar](https://leonksx.github.io/First-Project-nlw-explorer/)
+[Clique aqui para acessar](https://leonksx.github.io/First-Project-nlw-eSports/)
 
 ## Tecnologias 
 
